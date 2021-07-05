@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1620429676 source:c:\users\nana kezeter nassice\desktop\class sallecoonf\main.cpp
+	<iostream>
+	<istream>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<time.h>
+
+1620597053 source:c:\users\nana kezeter nassice\desktop\sallecoonf - copie\main.cpp
+	<iostream>
+	<istream>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	<time.h>
+
